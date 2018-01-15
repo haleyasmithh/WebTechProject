@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+footer {
+	background-color: #444444;
+	padding: .5% 2%;
+	color: #ffffff;
+	margin: 30px 0;	
+} 
+
+logo {
+	margin: 10% 4% 4% 4%;
+}
+
+banner {
+	margin: 10% 4% 4% 4%;
+}
